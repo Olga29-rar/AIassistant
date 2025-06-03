@@ -1,2 +1,3 @@
 # AIassistant
 just pracktika
+chepuchila
