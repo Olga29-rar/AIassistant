@@ -1,0 +1,2 @@
+# AIassistant
+just pracktika
